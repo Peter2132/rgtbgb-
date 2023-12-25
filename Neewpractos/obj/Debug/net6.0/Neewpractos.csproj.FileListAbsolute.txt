@@ -1,0 +1,17 @@
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.AssemblyInfoInputs.cache
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.AssemblyInfo.cs
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.csproj.CoreCompileInputs.cache
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.csproj.AssemblyReference.cache
+D:\Neewpractos\Neewpractos\bin\Debug\net6.0\Neewpractos.exe
+D:\Neewpractos\Neewpractos\bin\Debug\net6.0\Neewpractos.deps.json
+D:\Neewpractos\Neewpractos\bin\Debug\net6.0\Neewpractos.runtimeconfig.json
+D:\Neewpractos\Neewpractos\bin\Debug\net6.0\Neewpractos.dll
+D:\Neewpractos\Neewpractos\bin\Debug\net6.0\Neewpractos.pdb
+D:\Neewpractos\Neewpractos\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.csproj.CopyComplete
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.dll
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\refint\Neewpractos.dll
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.pdb
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\Neewpractos.genruntimeconfig.cache
+D:\Neewpractos\Neewpractos\obj\Debug\net6.0\ref\Neewpractos.dll
